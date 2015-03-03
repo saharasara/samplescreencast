@@ -5,4 +5,7 @@ class Program
 
   def calculate
   end
+
+  def solve
+  end
 end
